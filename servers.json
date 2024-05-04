@@ -4,7 +4,7 @@
     "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/{ID}-installer.jar" 
   },
   "latest": {
-    "java": 17,
+    "java": 21,
     "version": "1.20.6",
     "mojang": "145ff0858209bcfc164859ba735d4199aafa1eea",
     "forge": "1.20.6-50.0.4/forge-1.20.6-50.0.4"
