@@ -1,36 +1,36 @@
 {
   "latest": {
-    "java": 21,
+    "java": "21",
     "version": "1.20.6",
     "mojang": "145ff0858209bcfc164859ba735d4199aafa1eea",
     "forge": "1.20.6-50.0.4"
   },
   "v1_20_6": {
-    "java": 21,
+    "java": "21",
     "version": "1.20.6",
     "mojang": "145ff0858209bcfc164859ba735d4199aafa1eea",
     "forge": "1.20.6-50.0.4"
   },
   "v1_18_2": {
-    "java": 21,
+    "java": "21",
     "version": "1.18.2",
     "mojang": "c8f83c5655308435b3dcf03c06d9fe8740a77469",
     "forge": "1.18.2-40.2.21"
   },
   "v1_16_5": {
-    "java": 21,
+    "java": "21",
     "version": "1.16.5",
     "mojang": "1b557e7b033b583cd9f66746b7a9ab1ec1673ced",
     "forge": "1.16.5-36.2.42"
   },
   "v1_8_9": {
-    "java": 8,
+    "java": "8",
     "version": "1.8.9",
     "mojang": "b58b2ceb36e01bcd8dbf49c8fb66c55a9f0676cd",
     "forge": "1.8.9-11.15.1.2318-1.8.9"
   },
   "v1_7_10": {
-    "java": 8,
+    "java": "8",
     "version": "1.7.10",
     "mojang": "952438ac4e01b4d115c5fc38f891710c4941df29",
     "forge": "1.7.10-10.13.4.1614-1.7.10"
