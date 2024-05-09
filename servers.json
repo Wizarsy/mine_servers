@@ -1,7 +1,7 @@
 {
   "url": {
-    "mojang": "https://piston-data.mojang.com/v1/objects/{ID}/server.jar",
-    "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/{ID}/forge-{ID}-installer.jar"
+    "mojang": "https://piston-data.mojang.com/v1/objects/${VERSION}/server.jar",
+    "forge": "https://maven.minecraftforge.net/net/minecraftforge/forge/${VERSION}/forge-${VERSION}-installer.jar"
   },
   "latest": {
     "java": 21,
